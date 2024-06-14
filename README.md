@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :student: I’m currently learning `C#` and and expanding my knowledge in `english`.
+- :student: I’m currently learning `C#` and expanding my knowledge in `english`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
 - 🥰 In my free time I like to read, go running, or watch horror movies.
