@@ -10,7 +10,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="[https://v1.pinimg.com/videos/mc/720p/f9/d0/10/f9d010189e5592ac6d034b773f38006b.mp4]" width = 250px></picture>
+<picture> <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH5Y2VDFwyz50AL7HDH4c6Xt60eoWxRu7EuY9_GbSEzrhmbkYAW1Mr3HmULf_SsNRCNQwUmUUDzIzMJ_KKPxU-CQvC0EK-w7kDHenE8N6AN8I1aQAwoWvUpeYARxaMTpQjwwCuwMigTgex/s1600/pusheen.gif" width = 250px></picture>
 
 <br><br>
 
