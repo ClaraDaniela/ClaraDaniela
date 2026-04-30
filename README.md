@@ -3,13 +3,21 @@
 👩‍💻 About Me
 
 🎓 Currently learning Java + Spring Boot and improving my English
+
 💡 Passionate about technology and continuous learning
+
 🔍 Open to opportunities in Development or IT Support
+
 🧠 Interested in backend, full stack & technical support
+
 🛠️ Knowledge in process modeling and system design (BPMN & UML)
+
 🖥️ Experience with troubleshooting, systems and user support
+
 🏃‍♀️ In my free time: running, reading & horror movies
+
 🚀 Tech Stack
+
 👨‍💻 Languages
 
 <p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
@@ -26,11 +34,17 @@
 
 
 📌 What I'm Looking For
+
 💼 First experience as a Junior Developer or IT Support
+
 🌱 A team where I can learn, grow and contribute
+
 ⚡ Roles that combine technology, problem solving and teamwork
+
 📫 Contact Me
+
 💼 LinkedIn: https://www.linkedin.com/in/clara-cantarino-31b713234
+
 📧 Email: claracant123@gmail.com
 
 
